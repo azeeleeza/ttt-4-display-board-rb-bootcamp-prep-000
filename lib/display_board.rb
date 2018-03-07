@@ -5,5 +5,5 @@ def display_board(cell)
   puts "-----------"
   puts " #{cell[3]} | #{cell[4]} | #{cell[5]} "
   puts "-----------"
-  puts " #{cell[4]} | #{cell[5]} | #{cell[8]} "
+  puts " #{cell[6]} | #{cell[7]} | #{cell[8]} "
 end
